@@ -17,5 +17,4 @@
 #8. Все коректно відображається.
 #9. git pull origin master.
 
-[logo]
-[logo]:https://github.com/dreyvn88/myRepository/blob/master/lab1/helpMe.png
+![alt text](https://github.com/dreyvn88/myRepository/blob/master/lab1/helpMe.png)
