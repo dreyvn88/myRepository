@@ -18,4 +18,4 @@
 #9. git pull origin master.
 
 ![logo]
-[logo]:lab1/README.md
+[logo]:https://github.com/dreyvn88/myRepository/blob/master/lab1/helpMe.png
