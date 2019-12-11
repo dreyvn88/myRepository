@@ -17,4 +17,5 @@
 #8. Все коректно відображається.
 #9. git pull origin master.
 
-
+![logo]
+[logo]:lab1/README.md
